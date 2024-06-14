@@ -22,7 +22,7 @@ To install the InsightZing Auto Poster plugin:
 After activating the plugin, configure it via the WordPress admin dashboard:
 
 1. Navigate to **Settings > InsightZing Auto Poster**.
-2. Enter your Telegram Bot Token, Chat ID, and optionally Channel Username (for channel posts).
+2. Enter your Telegram Bot Token, Chat ID, and optionally, Channel Username (for channel posts).
 3. Enable or disable auto posting to Telegram using the provided checkbox.
 
 ## Usage
@@ -43,7 +43,7 @@ If posts are not being sent to Telegram:
 
 ## Support
 
-For questions, issues, or feature requests, please [submit an issue](https://github.com/your-repo/insightzing-auto-poster/issues) on GitHub.
+For questions, issues, or feature requests, please [submit an issue](https://github.com/ashrafulwpdev/InsightZing-Auto-Poster/issues) on GitHub.
 
 ---
 
